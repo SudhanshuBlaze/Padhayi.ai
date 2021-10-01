@@ -14,8 +14,7 @@ git clone https://github.com/SudhanshuBlaze/Padhayi.ai.git
 ```
 
 ### Installing Dependencies
-#
-
+<hr/>
 - cd to the Padhayi.ai directory on your local computer
 - run the below commands to install all the required dependencies
 
