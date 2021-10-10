@@ -1,0 +1,5 @@
+streamlit 
+SpeechRecognition  
+pydub  
+scipy
+nltk

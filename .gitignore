@@ -1,4 +1,5 @@
 question_generator
-*.txt
+Summary.txt
+Transcript.txt
 *.wav
 .DS_Store
